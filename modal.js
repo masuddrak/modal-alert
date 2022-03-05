@@ -11,3 +11,10 @@ const payBill=()=>{
        console.log('you are on select')
    }
 }
+// visit
+const visit=()=>{
+   const phone= prompt('phone')
+    if(phone){
+        console.log(phone)
+    }
+}
