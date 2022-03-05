@@ -1,1 +1,3 @@
-alert('hello')
+const alert1=()=>{
+    alert('hello')
+}
